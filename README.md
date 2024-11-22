@@ -1,4 +1,4 @@
-# CodeAlpha_Music_Recommendation_System
+# Music_Recommendation_System
 A Music Recommendation System project using Natural Language Processing (NLP) for song recommendations based on song lyrics and textual data.
 
 # Table of Content
@@ -67,12 +67,12 @@ To begin utilizing this application, follow these steps:
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/GOAT-AK/CodeAlpha_Music_Recommendation_System
+   git clone https://github.com/GOAT-AK/Music_Recommendation_System
 
 2. Navigate to the cloned repository:
 
    ```bash
-   cd CodeAlpha_Music_Recommendation_System
+   cd Music_Recommendation_System
 
 3. Run the Jupyter Notebook:
 
