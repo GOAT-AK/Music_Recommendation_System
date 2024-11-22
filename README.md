@@ -90,7 +90,7 @@ To begin utilizing this application, follow these steps:
 
 * Type or Select a song from the dropdown
 
-
+![Image 22-11-2024 at 5 06 pm](https://github.com/user-attachments/assets/c8294a1a-6b18-49db-96d3-b7947bb7ad12)
 
 
 <hr>
