@@ -98,6 +98,7 @@ To begin utilizing this application, follow these steps:
 
 * Recommendations
 
+![Image 22-11-2024 at 5 05 pm](https://github.com/user-attachments/assets/73ea8688-74d9-46e3-9b86-08acca71e296)
 
 
 
